@@ -1,0 +1,6 @@
+# Codebook
+
+The present file is a codebook for better understanding of the data in the "AveragePerSubjectPerActivity.txt" file.
+The dataset contains 180 observations (rows) described by 88 variables (columns), from which:
+   * 2 are ID variables:
+      ** 'Sub_ID' : 
